@@ -1,0 +1,10 @@
+Boutique :
+
+    affichage des produits->getProduct();
+    afffichage des category->getCategory();
+
+customers:
+inscrire->CreateCustomers();
+connexion->authentifier();
+achat ->CreateOrders()
+Mise a jour des  ->UpdateInfosCustomers();
